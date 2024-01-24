@@ -12,5 +12,4 @@ public class DadosDomain {
     private String nome;
     private String sobrenome;
     private String idade;
-    private String genero;
 }
